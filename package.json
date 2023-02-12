@@ -1,0 +1,19 @@
+{
+  "name": "javascript.java",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Java",
+    "JavaScript"
+  ],
+  "author": "Mart Anthony Salazar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "javascript.java": "^1.0.0"
+  }
+}
